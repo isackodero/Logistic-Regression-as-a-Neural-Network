@@ -1,2 +1,2 @@
-# Logistic-Regression-as-a-Neural-Network
+# Emplementing Logistic Regression using Python with Numpy
 python
